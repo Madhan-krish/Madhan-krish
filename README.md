@@ -19,5 +19,5 @@ I am a Python Developer and 3D Designer focused on building functional, secure, 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,react,nextjs,mongodb,aws,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,mongodb,aws,blender,figma" />
 </p>
