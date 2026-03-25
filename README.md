@@ -12,3 +12,8 @@ I am a Python Developer and 3D Designer focused on building functional, secure, 
 🧊 3D Art: Experienced in 3D modeling and rendering within Blender.
 
 🌱 Learning: Always exploring new ways to optimize backend security and 3D workflows.
+
+<p align="center">
+<a href="https://www.instagram.com/mg_krish__/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="www.linkedin.com/in/madhankumargdev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
