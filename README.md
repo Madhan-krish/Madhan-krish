@@ -17,3 +17,7 @@ I am a Python Developer and 3D Designer focused on building functional, secure, 
 <a href="https://www.instagram.com/mg_krish__/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="www.linkedin.com/in/madhankumargdev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,react,nextjs,mongodb,aws,blender,figma" />
+</p>
